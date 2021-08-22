@@ -1,0 +1,7 @@
+edit qt5ct.conf file
+
+sudo nano /etc/xdg/qt5ct/qt5ct.conf
+replace style=gtk2 with style=gtk3
+ctrl+x y ENTER
+
+https://forum.qt.io/topic/111570/pi-4-qt-5-with-open-cv-4-1-app-no-gui-display-problem-with-gtk/4
